@@ -6,7 +6,7 @@ body {
 
 body {
     /* Set the background image URL, size, position, and other properties */
-    background-image: url('/chicago.webp');
+    background-image: url('./chicago.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
